@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hiya, I'm Serena! 🤠
 
 <!--
 **serena-marie/serena-marie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
